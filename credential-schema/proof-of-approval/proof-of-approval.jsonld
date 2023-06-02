@@ -14,7 +14,7 @@
           "type": "@type",
           "vocab": "https://github.com/sekmet/0xPolygonID-tutorial-examples/blob/main/credential-schema/proof-of-approval/proof-of-approval-vocab.md#",
           "xsd": "http://www.w3.org/2001/XMLSchema#",
-          "entryDate": {
+          "signatureDate": {
             "@id": "vocab:signatureDate",
             "@type": "xsd:integer"
           }
