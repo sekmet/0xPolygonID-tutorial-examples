@@ -1,0 +1,37 @@
+{
+  "@context": [
+    {
+      "@version": 1.1,
+      "@protected": true,
+      "id": "@id",
+      "type": "@type",
+      "ProofOfWorkCredential": {
+        "@id": "https://raw.githubusercontent.com/sekmet/0xPolygonID-tutorial-examples/main/credential-schema/proof-of-work/json-ld/proof-of-work.json-ld#ProofOfWorkCredential",
+        "@context": {
+          "@version": 1.1,
+          "@protected": true,
+          "id": "@id",
+          "type": "@type",
+          "vocab": "https://raw.githubusercontent.com/sekmet/0xPolygonID-tutorial-examples/main/credential-schema/proof-of-work/proof-of-work.md#",
+          "xsd": "http://www.w3.org/2001/XMLSchema#",
+          "entryDate": {
+            "@id": "vocab:hireDate",
+            "@type": "xsd:dateTime"
+          },
+          "surveyId": {
+            "@id": "vocab:surveyId",
+            "@type": "xsd:integer"
+          },
+          "resultsId": {
+            "@id": "vocab:resultsId",
+            "@type": "xsd:integer"
+          },
+          "profileId": {
+            "@id": "vocab:profileId",
+            "@type": "xsd:integer"
+          }
+        }
+      }
+    }
+  ]
+}
