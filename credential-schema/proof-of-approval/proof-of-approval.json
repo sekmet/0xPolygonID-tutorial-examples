@@ -106,7 +106,7 @@
         "type": "object",
         "required": [
           "id",
-          "entryDate"
+          "signatureDate"
         ],
         "properties": {
           "id": {
@@ -114,7 +114,7 @@
             "type": "string",
             "format": "uri"
           },
-          "entryDate": {
+          "signatureDate": {
             "type": "integer"
           }
         }
