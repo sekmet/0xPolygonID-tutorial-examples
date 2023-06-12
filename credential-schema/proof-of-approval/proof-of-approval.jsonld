@@ -5,8 +5,8 @@
       "@protected": true,
       "id": "@id",
       "type": "@type",
-      "ProofOfApproval": {
-        "@id": "https://raw.githubusercontent.com/sekmet/0xPolygonID-tutorial-examples/main/credential-schema/proof-of-approval/proof-of-approval.jsonld#ProofOfApproval",
+      "ProofOfApprovalClaim": {
+        "@id": "https://raw.githubusercontent.com/sekmet/0xPolygonID-tutorial-examples/main/credential-schema/proof-of-approval/proof-of-approval.jsonld#ProofOfApprovalClaim",
         "@context": {
           "@version": 1.1,
           "@protected": true,

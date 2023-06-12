@@ -6,13 +6,13 @@
         "id": "@id",
         "type": "@type",
         "ProfileIdClaim": {
-          "@id": "https://raw.githubusercontent.com/sekmet/0xPolygonID-tutorial-examples/main/credential-schema/proof-of-work/json-ld/profile-id.json-ld#ProfileIdClaim",
+          "@id": "https://raw.githubusercontent.com/sekmet/0xPolygonID-tutorial-examples/main/credential-schema/proof-of-boost/json-ld/profile-id.json-ld#ProfileIdClaim",
           "@context": {
             "@version": 1.1,
             "@protected": true,
             "id": "@id",
             "type": "@type",
-            "vocab": "https://raw.githubusercontent.com/sekmet/0xPolygonID-tutorial-examples/main/credential-schema/proof-of-work/proof-of-work.md#",
+            "vocab": "https://raw.githubusercontent.com/sekmet/0xPolygonID-tutorial-examples/main/credential-schema/proof-of-boost/proof-of-boost.md#",
             "xsd": "http://www.w3.org/2001/XMLSchema#",
             "profileId": {
                 "@id": "vocab:profileId",
